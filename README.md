@@ -25,10 +25,10 @@ An archive of studies related to portrait style transfer
 +  Kunhee Kim， Sanghun Park， Eunyeong Jeon， Taehun Kim， Daijin Kim: "*A Style-aware Discriminator for Controllable Image Translation*" IEEE2022 [[paper]](https://ieeexplore.ieee.org/document/9880454) [[homepage]](https://github.com/kunheek/style-aware-discriminator)
 + Jianhui Li, Jianmin Li, Haoji Zhang, Shilong Liu, Zhengyi Wang, Zihao Xiao, Kaiwen Zheng, Jun Zhu: "*PREIM3D: 3D Consistent Precise Image Attribute Editing from a Single Image*" IEEE2023 [[paper]](https://ieeexplore.ieee.org/document/10204458) [[homepage]](https://github.com/mybabyyh/Preim3D)
 + Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy: "*Unsupervised Image-to-Image Translation with Generative Prior*" CVPR2022 [[paper]](https://www.mmlab-ntu.com/project/gpunit/) [[homepage]](https://github.com/williamyang1991/GP-UNIT)
-+ 1: "**" 2 [[paper]]() [[homepage]](https://github.com/bryandlee/animegan2-pytorch)
++ Jiapeng Zhu, Yujun Shen, Deli Zhao, Bolei Zhou: "*In-Domain GAN Inversion for Real Image Editing*" ECCA2020 [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620579-supp.pdf) [[homepage]]([https://github.com/bryandlee/animegan2-pytorch](https://github.com/genforce/idinvert_pytorch))
++ Fei Gao, Jingjie Zhu, Zeyuan Yu, Peng Li, Tao Wang: "Making Robots Draw A Vivid Portrait In Two Minutes" IROS2020 [[paper]](https://arxiv.org/abs/2005.05526) [[homepage]](https://github.com/fei-aiart/AiSketcher?tab=readme-ov-file)
 + 1: "**" 2 [[paper]]() [[homepage]](https://github.com/bryandlee/FreezeG)
-+ 1: "**" 2 [[paper]]() [[homepage]]()
-
++ 1: "**" 2 [[paper]]() [[homepage]](https://github.com/bryandlee/animegan2-pytorch)
 ### Based on Diffusion models.
 + Yuxin Zhang, Weiming Dong, Fan Tang, Nisha Huang, Haibin Huang, Chongyang Ma, Tong-Yee Lee, Oliver Deussen, Changsheng Xu: "*ProSpect: Prompt Spectrum for Attribute-Aware Personalization of Diffusion Models*" SIGGRAPH Asia 2023 [[paper]]() [[homepage]](https://github.com/zyxElsa/ProSpect)
 + Yuxin Zhang, Nisha Huang, Fan Tang, Haibin Huang, Chongyang Ma, Weiming Dong, Changsheng Xu: "*Inversion-Based Style Transfer with Diffusion Models*" CVPR 2023 [[paper]](https://arxiv.org/abs/2211.13203) [[homepage]](https://github.com/zyxElsa/InST)
