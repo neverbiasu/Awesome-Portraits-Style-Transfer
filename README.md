@@ -11,7 +11,7 @@ An archive of studies related to portrait style transfer
 + Yichun Shi, Xiao Yang, Yangyue Wan and Xiaohui Shen: "*SemanticStyleGAN: Learning Compositional Generative Priors for Controllable Image Synthesis and Editing*" CVPR 2022 [[paper]](https://semanticstylegan.github.io/) [[homepage]](https://github.com/seasonSH/SemanticStyleGAN)
 + Hila Chefer, Sagie Benaim, Roni Paiss, Lior Wolf: "*TargetCLIP- Official PyTorch implementation of the paper Image-Based CLIP-Guided Essence Transfer*" ECCV 2022 [[paper]](https://arxiv.org/abs/2110.12427) [[homepage]](https://github.com/hila-chefer/TargetCLIP)
 + Mingcong Liu, Qiang Li, Zekui Qin, Guoxin Zhang, Pengfei Wan, Wen Zheng: "*BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation*" NeurIPS 2021 [[paper]](https://arxiv.org/abs/2110.11728) [[homepage]](https://github.com/onion-liu/BlendGAN)
-+ Zheng Gu, Chuanqi Dong, Jing Huo, Wenbin Li, and Yang Gao: "*CariMe: Unpaired Caricature Generation with Multiple Exaggerations*" IEEE 2021 [[paper]](https://ieeexplore.ieee.org/abstract/document/9454341) [[homepage]](https://github.com/edward3862/CariMe-pytorch)
++ Zheng Gu, Chuanqi Dong, Jing Huo, Wenbin Li, and Yang Gao: "*CariMe: Unpaired Caricature Generation with Multiple Exaggerations*" TMM 2021 [[paper]](https://ieeexplore.ieee.org/abstract/document/9454341) [[homepage]](https://github.com/edward3862/CariMe-pytorch)
 + Wonjong Jang , Gwangjin Ju , Yucheol Jung , Jiaolong Yang , Xin Tong and Seungyong Lee: "*StyleCariGAN: Caricature Generation via StyleGAN Feature Map Modulation*" SIGGRAPH 2021 [[paper]](https://wonjongg.me/StyleCariGAN/) [[homepage]](https://github.com/wonjongg/StyleCariGAN)
 + Yuval Alaluf, Or Patashnik and Daniel Cohen-Or: "*ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement*" ICCV (2021) [[paper]](https://yuval-alaluf.github.io/restyle-encoder/)[[homepage]](https://github.com/yuval-alaluf/restyle-encoder?tab=readme-ov-file)
 + Xuning Shao and Weidong Zhang: "*SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation*" ICCV 2021 [[paper]](https://arxiv.org/abs/2103.16219) [[homepage]](https://github.com/NetEase-GameAI/SPatchGAN)
@@ -22,7 +22,7 @@ An archive of studies related to portrait style transfer
 + Shi, Yichun, Deb, Debayan and Jain, Anil K: "*WarpGAN: Automatic Caricature Generation*" CVPR2019 [[paper]](https://arxiv.org/abs/1811.10100) [[homepage]](https://github.com/seasonSH/WarpGAN)
 + Xun Huang and Serge Belongie: "*Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization*" ICCV 2017 (Oral) [[paper]](https://arxiv.org/abs/1703.06868) [[homepage]](https://github.com/xunhuang1995/AdaIN-style)
 
-+ 1: "**" 2 [[paper]]() [[homepage]]()
++ Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul L. Rosin: "*APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs*" CVPR 2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.html) [[homepage]](https://github.com/yiranran/APDrawingGAN)
 + 1: "**" 2 [[paper]]() [[homepage]]()
 + 1: "**" 2 [[paper]]() [[homepage]]()
 + 1: "**" 2 [[paper]]() [[homepage]]()
