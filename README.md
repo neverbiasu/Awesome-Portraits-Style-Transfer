@@ -22,8 +22,11 @@ An archive of studies related to portrait style transfer
 + Shi, Yichun, Deb, Debayan and Jain, Anil K: "*WarpGAN: Automatic Caricature Generation*" CVPR2019 [[paper]](https://arxiv.org/abs/1811.10100) [[homepage]](https://github.com/seasonSH/WarpGAN)
 + Xun Huang and Serge Belongie: "*Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization*" ICCV 2017 (Oral) [[paper]](https://arxiv.org/abs/1703.06868) [[homepage]](https://github.com/xunhuang1995/AdaIN-style)
 + Ran Yi, Yong-Jin Liu, Yu-Kun Lai, Paul L. Rosin: "*APDrawingGAN: Generating Artistic Portrait Drawings from Face Photos with Hierarchical GANs*" CVPR 2019 [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Yi_APDrawingGAN_Generating_Artistic_Portrait_Drawings_From_Face_Photos_With_Hierarchical_CVPR_2019_paper.html) [[homepage]](https://github.com/yiranran/APDrawingGAN)
-+ 1: "**" 2 [[paper]]() [[homepage]]()
-+ 1: "**" 2 [[paper]]() [[homepage]]()
++  Kunhee Kim， Sanghun Park， Eunyeong Jeon， Taehun Kim， Daijin Kim: "*A Style-aware Discriminator for Controllable Image Translation*" IEEE2022 [[paper]](https://ieeexplore.ieee.org/document/9880454) [[homepage]](https://github.com/kunheek/style-aware-discriminator)
++ Jianhui Li, Jianmin Li, Haoji Zhang, Shilong Liu, Zhengyi Wang, Zihao Xiao, Kaiwen Zheng, Jun Zhu: "*PREIM3D: 3D Consistent Precise Image Attribute Editing from a Single Image*" IEEE2023 [[paper]](https://ieeexplore.ieee.org/document/10204458) [[homepage]](https://github.com/mybabyyh/Preim3D)
++ Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy: "*Unsupervised Image-to-Image Translation with Generative Prior*" CVPR2022 [[paper]](https://www.mmlab-ntu.com/project/gpunit/) [[homepage]](https://github.com/williamyang1991/GP-UNIT)
++ 1: "**" 2 [[paper]]() [[homepage]](https://github.com/bryandlee/animegan2-pytorch)
++ 1: "**" 2 [[paper]]() [[homepage]](https://github.com/bryandlee/FreezeG)
 + 1: "**" 2 [[paper]]() [[homepage]]()
 
 ### Based on Diffusion models.
