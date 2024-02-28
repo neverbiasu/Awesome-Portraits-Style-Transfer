@@ -36,11 +36,13 @@ An archive of studies related to portrait style transfer
 ### Based on Diffusion models.
 + Yuxin Zhang, Weiming Dong, Fan Tang, Nisha Huang, Haibin Huang, Chongyang Ma, Tong-Yee Lee, Oliver Deussen, Changsheng Xu: "*ProSpect: Prompt Spectrum for Attribute-Aware Personalization of Diffusion Models*" SIGGRAPH Asia 2023 [[paper]]() [[homepage]](https://github.com/zyxElsa/ProSpect)
 + Yuxin Zhang, Nisha Huang, Fan Tang, Haibin Huang, Chongyang Ma, Weiming Dong, Changsheng Xu: "*Inversion-Based Style Transfer with Diffusion Models*" CVPR 2023 [[paper]](https://arxiv.org/abs/2211.13203) [[homepage]](https://github.com/zyxElsa/InST)
++ Yuanze Lin, Yi-Wen Chen, Yi-Hsuan Tsai, Lu Jiang, Ming-Hsuan Yang: "*Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models*" TOG 2023 [[paper]](https://arxiv.org/pdf/2302.12228.pdf) [[homepage]](https://tuning-encoder.github.io/)
++ Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy: "*Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation*" SIGGRAPH Asia 2023 [[paper]](https://arxiv.org/pdf/2306.07954.pdf) [[homepage]](https://www.mmlab-ntu.com/project/rerender/)
 + 1: "**" 2 [[paper]]() [[homepage]]()
-
 ## Repositories
 + bryandlee: "*FreeG*" [[homepage]](https://github.com/bryandlee/FreezeG)
 + TachibanaYoshino: "*AnimeGANv2*" [[homepage]](https://github.com/TachibanaYoshino/AnimeGANv2)
+
 + 1: "**" 2 [[paper]]() [[homepage]]()
 
 ## Datasets
