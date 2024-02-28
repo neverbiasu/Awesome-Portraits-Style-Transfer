@@ -1,6 +1,8 @@
 # Awesome-Portraits-Style-Transfer
 An archive of studies related to portrait style transfer
 
+<img src="./content/cover.png">
+
 ## Table of Contents
 + [Papers](#Papers)
 + [Datasets](#Datasets)
