@@ -1,5 +1,6 @@
-# Awesome-Portraits-Style-Transfer
-An archive of studies related to portrait style transfer
+# Awesome-Portraits-Style-Transfer  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+
+> An archive of studies related to portrait style transfer
 
 <img src="./content/cover.png">
 
