@@ -47,7 +47,12 @@
 + Yuanze Lin, Yi-Wen Chen, Yi-Hsuan Tsai, Lu Jiang, Ming-Hsuan Yang: "*Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models*" TOG 2023 [[paper]](https://arxiv.org/pdf/2302.12228.pdf) [[homepage]](https://tuning-encoder.github.io/)
 + Yuxin Zhang, Nisha Huang, Fan Tang, Haibin Huang, Chongyang Ma, Weiming Dong, Changsheng Xu: "*Inversion-Based Style Transfer with Diffusion Models*" CVPR 2023 [[paper]](https://arxiv.org/abs/2211.13203) [[homepage]](https://github.com/zyxElsa/InST)
 + Gihyun Kwon, Jong Chul Ye: "*CLIPstyler:Image Style Transfer with a Single Text Condition*" CVPR 2022 [[paper]](https://arxiv.org/abs/2112.00374) [[homepage]](https://github.com/cyclomon/CLIPstyler)
+
+### Others
++ Jie An, Siyu Huang, Yibing Song, Dejing Dou, Wei Liu and Jiebo Luo: "*ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows*" CVPR 2021 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/An_ArtFlow_Unbiased_Image_Style_Transfer_via_Reversible_Neural_Flows_CVPR_2021_paper.pdf) [[homepage]](https://github.com/pkuanjie/ArtFlow)
++ Sheng, Lu and Lin, Ziyi and Shao, Jing and Wang, Xiaogang: "*Avatar-Net: Multi-scale Zero-shot Style Transfer by Feature Decoration*" CVPR 2018 [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sheng_Avatar-Net_Multi-Scale_Zero-Shot_CVPR_2018_paper.pdf) [[homepage]](https://lucassheng.github.io/avatar-net/)
 + 1: "**" 2 [[paper]]() [[homepage]]()
+ 
 ## Repositories
 + bryandlee: "*FreeG*" [[homepage]](https://github.com/bryandlee/FreezeG)
 + TachibanaYoshino: "*AnimeGANv2*" [[homepage]](https://github.com/TachibanaYoshino/AnimeGANv2)
