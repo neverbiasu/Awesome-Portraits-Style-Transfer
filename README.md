@@ -40,6 +40,7 @@ An archive of studies related to portrait style transfer
 + Yuxin Zhang, Nisha Huang, Fan Tang, Haibin Huang, Chongyang Ma, Weiming Dong, Changsheng Xu: "*Inversion-Based Style Transfer with Diffusion Models*" CVPR 2023 [[paper]](https://arxiv.org/abs/2211.13203) [[homepage]](https://github.com/zyxElsa/InST)
 + Yuanze Lin, Yi-Wen Chen, Yi-Hsuan Tsai, Lu Jiang, Ming-Hsuan Yang: "*Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models*" TOG 2023 [[paper]](https://arxiv.org/pdf/2302.12228.pdf) [[homepage]](https://tuning-encoder.github.io/)
 + Shuai Yang, Yifan Zhou, Ziwei Liu, Chen Change Loy: "*Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation*" SIGGRAPH Asia 2023 [[paper]](https://arxiv.org/pdf/2306.07954.pdf) [[homepage]](https://www.mmlab-ntu.com/project/rerender/)
++ Serin Yang, Hyunmin Hwang, Jong Chul Ye: "*Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer*" ICCV 2023 [[paper]](https://arxiv.org/pdf/2303.08622.pdf) [[homepage]](https://github.com/YSerin/ZeCon)
 + 1: "**" 2 [[paper]]() [[homepage]]()
 ## Repositories
 + bryandlee: "*FreeG*" [[homepage]](https://github.com/bryandlee/FreezeG)
